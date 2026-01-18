@@ -23,7 +23,7 @@ export default function Footer() {
             <a href="#" className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-white/20 transition-colors">
               <Instagram className="w-5 h-5" />
             </a>
-            <a href="#" className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-white/20 transition-colors">
+            <a href="https://www.instagram.com/w_cleanoficial/?igsh=MWlmd2p4MTFybHJiMw%3D%3D#" className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-white/20 transition-colors">
               <Facebook className="w-5 h-5" />
             </a>
             <a href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`} className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-white/20 transition-colors">
